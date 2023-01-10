@@ -1,3 +1,3 @@
 console.log("Hello");
-let name1 = "24567";
-console.log(name1);
+let surname = "23456";
+console.log(surname);
